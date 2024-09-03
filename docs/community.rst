@@ -20,7 +20,7 @@ Join the `Ansible Forum <https://forum.ansible.com>`_, the default communication
 `Register <https://forum.ansible.com/signup?>`_ to join the community.
 Search by categories and tags to find interesting topics or start a new one; subscribe only to topics you need!
 
-* `Get Help <https://forum.ansible.com/c/help/6>`_: get help or help others. Please add appropriate tags if you start new discussions, for example `ansible-runner`, `playbook`, and  `awx`.
+* `Get Help <https://forum.ansible.com/c/help/6>`_: get help or help others. Please add appropriate tags if you start new discussions, for example ``ansible-runner``, ``playbook``, and  ``awx``.
 * `Posts tagged with 'ansible-runner' <https://forum.ansible.com/tag/ansible-runner>`_: subscribe to participate in project-related conversations.
 * `Bullhorn newsletter <https://docs.ansible.com/ansible/devel/community/communication.html#the-bullhorn>`_: used to announce releases and important changes.
 * `Social Spaces <https://forum.ansible.com/c/chat/4>`_: gather and interact with fellow enthusiasts.
